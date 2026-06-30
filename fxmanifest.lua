@@ -94,4 +94,9 @@ files {
   "web/dist/assets/*.js"
 }
 
+dependencies {
+    'oxmysql',
+    'ox_lib'
+}
+
 ui_page "web/dist/index.html"
